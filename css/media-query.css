@@ -1,0 +1,155 @@
+
+
+@media (min-width: 768px) and (max-width:1024px) {
+	.col-4 {
+		width: 49%;
+	}
+	.col-2 {
+		width: 100%;
+	}
+	.padding-top-pa {
+		margin-bottom: 20px;
+	}
+	.round-img {
+		width: 45%;
+		float:none;
+		margin: 15px auto;
+	}
+	
+	video {
+		width: 414px;
+	}
+	
+	
+	.table {
+		font-size: 13px;
+	}
+	.course-heading {
+		padding: 20px 0px;
+		font-size: 22px;
+	}
+	.course-details h5 {
+		font-size: 17px;
+	}
+	.course-details h4 {
+		font-size: 18px;
+	}
+	.details>p {
+		font-size: 13px;
+		margin-bottom: 10px;
+	}
+	.roman-ul {
+		font-size: 13px;
+	}
+	.Contact ul {
+		margin-bottom: 4em;
+	}
+	
+	.rt-container {
+		height: 226px !important;
+	}
+	
+	#slide1:checked ~ #controls label:nth-child(2), #slide2:checked ~ #controls label:nth-child(3), #slide3:checked ~ #controls label:nth-child(4), #slide4:checked ~ #controls label:nth-child(5), #slide5:checked ~ #controls label:nth-child(1) {
+		position: absolute !important;
+		right: 0em !important;
+		top: 4em !important;
+	}
+	
+	#slide1:checked ~ #controls label:nth-child(5), #slide2:checked ~ #controls label:nth-child(1), #slide3:checked ~ #controls label:nth-child(2), #slide4:checked ~ #controls label:nth-child(3), #slide5:checked ~ #controls label:nth-child(4) {
+		position: absolute !important;
+		top: 4em !important;
+		left: 0em !important;
+	}
+	
+}
+
+@media(max-width:767px){
+	.header-right {
+		width: 100%;
+		float: left;
+	}
+	.header-right>ul {
+		margin: 6px 0px;
+		text-align: left;
+	}
+	.header-right>ul>li {
+		display: block;
+	}
+	
+	.nav>ul>li {
+		display: block;
+		margin-left: 70px;
+		padding: 10px 0px;
+	}
+	.drop-down {
+		position: relative;
+		top: 12px;
+	}
+	.col-2 {
+		width: 100%;
+	}
+	.padding-top-pa {
+		padding: 2em;
+	}
+	
+	.col-4 {
+    width: 100%;
+	}
+	.footer h3 {
+		margin-top: 30px;
+	}
+	
+	
+	
+	/* index.html */
+	.round-img {
+		width: 45%;
+		margin: 15px auto;
+		float:none;
+	}
+	
+	video {
+		width: 414px;
+	}
+	
+	
+	.table {
+		font-size: 75%;
+	}
+	.course-heading {
+    padding: 20px 0px;
+    font-size: 22px;
+	}
+	.course-details h4 {
+		font-size: 14px;
+	}
+	.course-details h5 {
+		font-size: 15px;
+	}
+	.details>p {
+		font-size: 13px;
+		margin-bottom: 7px;
+	}
+	.roman-ul {
+		font-size: 13px;
+	}
+	.Contact ul {
+		margin-bottom: 4em;
+	}
+	
+	.rt-container {
+		height: 170px !important;
+	}
+	
+	#slide1:checked ~ #controls label:nth-child(2), #slide2:checked ~ #controls label:nth-child(3), #slide3:checked ~ #controls label:nth-child(4), #slide4:checked ~ #controls label:nth-child(5), #slide5:checked ~ #controls label:nth-child(1) {
+		position: absolute !important;
+		right: 0em !important;
+		top: 4em !important;
+	}
+	
+	#slide1:checked ~ #controls label:nth-child(5), #slide2:checked ~ #controls label:nth-child(1), #slide3:checked ~ #controls label:nth-child(2), #slide4:checked ~ #controls label:nth-child(3), #slide5:checked ~ #controls label:nth-child(4) {
+		position: absolute !important;
+		top: 4em !important;
+		left: 0em !important;
+	}
+}
