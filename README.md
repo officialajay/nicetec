@@ -1,4 +1,4 @@
 # nicetec
 
 link
-https://github.com/officialajay/nicetec
+https://officialajay.github.io/nicetec/
